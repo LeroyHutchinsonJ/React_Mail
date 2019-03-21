@@ -4,7 +4,7 @@
 }
 .Letter {
   border: 1px solid black;
-  padding: 40px;
+  padding: 90px;
 }
 .ToAddress {
   position: relative;
@@ -17,12 +17,13 @@
   left: -20px;
 }
 .StampImage {
-  position: relative;
-  bottom: 140px;
-  left: 370px;
+  position: absolute;
+  bottom: 490px;
+  left: 400px;
+  width: 500px;
 }
 .ImageStuff {
   width: 25%;
-  position: relative;
+  position: absolute;
   left: 145px;
 }
