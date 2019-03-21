@@ -2,3 +2,27 @@
   font-family: sans-serif;
   text-align: center;
 }
+.Letter {
+  border: 1px solid black;
+  padding: 40px;
+}
+.ToAddress {
+  position: relative;
+  left: 230px;
+  top: 130px;
+}
+.FromAddress {
+  position: relative;
+  top: -70px;
+  left: -20px;
+}
+.StampImage {
+  position: relative;
+  bottom: 140px;
+  left: 370px;
+}
+.ImageStuff {
+  width: 25%;
+  position: relative;
+  left: 145px;
+}
